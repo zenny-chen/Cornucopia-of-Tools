@@ -20,5 +20,6 @@ In More module, there exists a user manual about this app. You may write your re
 在更多功能中包含了本App的使用说明，还有其他一些实用的小工具。
 
 如何安装此App？安装iOS版本可以先下载爱思助手：https://www.i4.cn
-然后用爱思助手安装此ipa文件，方法请参考此链接：https://www.i4.cn/news_detail_3339.html
+
+然后用爱思助手安装本git中的**ipa文件**，方法请参考此链接：https://www.i4.cn/news_detail_3339.html
 
