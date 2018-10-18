@@ -19,4 +19,6 @@ In More module, there exists a user manual about this app. You may write your re
 图像处理功能中，当前主要包含了图像裁剪以及图像像素取色。
 在更多功能中包含了本App的使用说明，还有其他一些实用的小工具。
 
-由于作者最近家庭事业比较繁忙，因此当前1.0版本难免会存在一些小问题，欢迎大家提供建议和意见，各位可以在本App的使用说明中查看到作者的联系方式，也欢迎大家在App Store中进行评论。
+如何安装此App？安装iOS版本可以先下载爱思助手：https://www.i4.cn
+然后用爱思助手安装此ipa文件，方法请参考此链接：https://www.i4.cn/news_detail_3339.html
+
